@@ -1,11 +1,8 @@
-/* style.scss */
 $bluegrey: #2B3A42;
 
 pre {
   padding: 20px;
-  background: red url('code.png') no-repeat center center / 32px 32px;
-  color: #fff;
-  font-family: Monaco,monospace;
-  font-size: 12px;
-  text-shadow: 0 1px 1px #000;
+  background: $bluegrey url('code.png') no-repeat center center / 32px 32px;
+  color: #dedede;
+  text-shadow: 0 1px 1px rgba(#000, .5);
 }

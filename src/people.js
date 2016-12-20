@@ -1,15 +1,14 @@
-
 const people = [{
-  manager: 'Jen!',
-  name: 'Bobby'
+  manager: 'Jen',
+  name: 'Bob'
 }, {
   manager: 'Jen',
   name: 'Sue'
 }, {
-  manager: 'Bobby',
+  manager: 'Bob',
   name: 'Shirley'
 }, {
-  manager: 'Bobby',
+  manager: 'Bob',
   name: 'Terrence'
 }]
 
